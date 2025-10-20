@@ -1,5 +1,5 @@
 let config = {
-  "Title": "Joseph Havens - Links",
+  "Title": "Joseph Havens",
   "Name": "Joseph Havens",
   "Description": "Undergraduate Researcher | AGN | Dr. Allison Kirkpatrick | KU",
   "links": [
