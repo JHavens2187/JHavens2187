@@ -64,6 +64,7 @@ img {
   position: relative;
   font-size: 20px;
   letter-spacing: 3px;
+  transition: transform 0.2s ease-in-out;
 }
 
 .links-in {
@@ -142,4 +143,33 @@ img {
   text-align: center;
   margin: 10px;
   margin-top: 50px;
+  transition: transform 0.2s ease-in-out;
+}
+
+/* --- Hover Animations --- */
+.links:hover {
+    transform: scale(1.03);
+    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+}
+
+.links-footer:hover {
+    transform: scale(1.1);
+}
+
+/* --- Skills Section --- */
+.skills-container {
+    text-align: center;
+    margin: 15px 0 10px 0;
+}
+
+.skills-container span {
+    background-color: rgba(255, 255, 255, 0.1);
+    color: #ffffff;
+    padding: 5px 12px;
+    font-size: 14px;
+    border-radius: 15px;
+    margin: 3px;
+    display: inline-block;
+    font-family: 'Dosis', sans-serif;
+    font-weight: 600;
 }
