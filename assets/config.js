@@ -19,9 +19,9 @@ let config = {
       "icon_classes": "fab fa-linkedin"
     },
     {
-      "Title": "Bluesky",
-      "URL": "https://bsky.app/profile/cosmicjoe.bsky.social",
-      "icon_classes": "fas fa-comment"
-    },
+  "Title": "Bluesky",
+  "URL": "https://bsky.app/profile/cosmicjoe.bsky.social",
+  "icon_classes": "fa-brands fa-bluesky"
+},
   ]
 }
