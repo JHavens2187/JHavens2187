@@ -1,7 +1,7 @@
 let config = {
   "Title": "Joseph Havens - Links",
   "Name": "Joseph Havens",
-  "Description": "Physics & Astronomy Student at the University of Kansas",
+  "Description": "Undergraduate Researcher | AGN | Dr. Allison Kirkpatrick | KU",
   "links": [
     {
       "Title": "GitHub",
