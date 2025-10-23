@@ -20,6 +20,7 @@ I’m an Astronomy student at KU, passionate about science outreach, making astr
 - Philosophy
 
 Connect with me on [Bluesky](https://bsky.app/profile/cosmicjoe.bsky.social)  
-(Website coming soon!)
+Learn more about me on [my website](https://josephhavens.me)
+
 
 **Pronouns:** he/him/his
